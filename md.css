@@ -1,9 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
 
-@import "../fonts/fonts.css";
-@import "../fonts/font-awesome.css";
-@import "../fonts/fajar-icons.css";
+@import "https://cdn.rawgit.com/EspressoMachine/mdfonts/master/fonts.css";
+@import "https://cdn.rawgit.com/EspressoMachine/mdfonts/master/font-awesome.css";
+@import "https://cdn.rawgit.com/EspressoMachine/mdfonts/master/md-icons.css";
 @import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 /*------------------------------------------------------------------
